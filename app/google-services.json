@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "927945521435",
+    "firebase_url": "https://pyrus-6ad5f.firebaseio.com",
+    "project_id": "pyrus-6ad5f",
+    "storage_bucket": "pyrus-6ad5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927945521435:android:41638e5e9fd8030a",
+        "android_client_info": {
+          "package_name": "tk.samgrogan.pyrus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927945521435-qcf2omp7omqkbhrtgbvteqnjjphcvtlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tk.samgrogan.pyrus",
+            "certificate_hash": "47fc368acf6aa7ba0d3963748b6150c86ee1df92"
+          }
+        },
+        {
+          "client_id": "927945521435-j99kmkggi0obl3i6gtsga398s7ghmff7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsdBya5vfHsQqi1jlKjTmmYD8vACsUNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927945521435-j99kmkggi0obl3i6gtsga398s7ghmff7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
